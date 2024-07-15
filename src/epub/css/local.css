@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-6 blockquote:first-of-type p,
-#chapter-26 blockquote p{
+#chapter-26 blockquote:first-of-type p{
 	text-align: center;
 	text-indent: 0;
 }
