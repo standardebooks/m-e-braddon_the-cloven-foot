@@ -1,12 +1,13 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-#chapter-6 blockquote p,
+#chapter-6 blockquote:first-of-type p,
 #chapter-26 blockquote p{
 	text-align: center;
 	text-indent: 0;
 }
 
+/* Letters */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -16,7 +17,6 @@ footer{
 	text-align: right;
 }
 
-/* Letters */
 [epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
