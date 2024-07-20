@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/m-e-braddon/the-cloven-foot</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-07-20T16:02:03Z</dc:date>
+		<meta property="dcterms:modified">2024-07-20T16:02:03Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,17 +47,17 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008122280</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A man down on his luck is set to inherit a fortune provided he marries his uncle’s adopted daughter, but dark issues from his past may prevent him doing so.</dc:description>
+		<dc:description id="description">A man down on his luck will inherit a fortune if he marries his uncle’s adopted daughter, but secrets from his past stand in his way.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Cloven Foot&lt;/i&gt; follows the fortunes of John Treverton, who is at a very low point in his life. He has squandered his small inheritance and had to sell his commission as a lieutenant in a cavalry regiment. Though he has been making a small amount of money from drawing comic sketches, he is feeling desperate and miserable when a telegram unexpectedly summons him to the death-bed of his wealthy uncle Jasper. The dying man tells him that he will settle his estate on the younger man on one condition—that he marry Jasper’s adopted daughter Laura within twelve months. Events in Treverton’s previous life however threaten this outcome, and complications multiply.&lt;/p&gt;
-			&lt;p&gt;The novel appears to have been generally well-received, with praise for the author’s handling of a complex plot. As in many of &lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;Mary Elizabeth Braddon’s&lt;/a&gt; novels, sensational elements such as murder, mistaken identity and bigamy feature prominently in &lt;i&gt;The Cloven Foot&lt;/i&gt;. However, an important additional theme is that of fraud, in order to circumvent the terms of a will, which has been identified as part of an increasing trend in the sensation fiction of the time towards more “white-collar” crimes.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Cloven Foot&lt;/i&gt; was initially published in serial form in the &lt;i&gt;Newcastle Weekly Chronicle&lt;/i&gt; starting in 1878. It was subsequently published in book form in three volumes in 1879. A stage play based on the novel, radically simplifying the plot, came out in 1890.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Cloven Foot&lt;/i&gt; follows the fortunes of John Treverton, who is at a very low point in his life. He has squandered his small inheritance and has had to sell his commission as a lieutenant in a cavalry regiment. Though he has been making a small amount of money from drawing comic sketches, he is feeling desperate and miserable when a telegram unexpectedly summons him to the death-bed of his wealthy uncle Jasper. The dying man tells him that he will will his estate to the younger man on one condition—that he marry Jasper’s adopted daughter Laura within twelve months. But events in Treverton’s past threaten this boon, and soon complications multiply.&lt;/p&gt;
+			&lt;p&gt;The novel was generally well-received, with praise for &lt;a href="https://standardebooks.org/ebooks/m-e-braddon"&gt;Braddon’s&lt;/a&gt; deft handling of a complex plot. Sensational elements such as murder, mistaken identity, and bigamy feature prominently in &lt;i&gt;The Cloven Foot&lt;/i&gt;, as they do in many of her novels; but an important new theme is that of fraud—a theme which has been identified as part of an increasing trend in the era’s sensation fiction towards featuring more white-collar crimes.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Cloven Foot&lt;/i&gt; was initially published in serial form in the &lt;i&gt;Newcastle Weekly Chronicle&lt;/i&gt; in 1878. It was subsequently published in three volumes in 1879. A stage play based on the novel, radically simplifying the plot, was performed in 1890.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks22/2200571h.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/011405562</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">162922</meta>
+		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cloven_Foot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-e-braddon_the-cloven-foot</meta>
 		<dc:creator id="author">M. E. Braddon</dc:creator>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
