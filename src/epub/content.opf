@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks22/2200571h.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/011405562</dc:source>
-		<meta property="se:word-count">162921</meta>
+		<meta property="se:word-count">160796</meta>
 		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Cloven_Foot</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/m-e-braddon_the-cloven-foot</meta>
